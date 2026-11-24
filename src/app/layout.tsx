@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Czerina Piedad — Full Stack Web Developer",
+  title: "Portfolio",
   description:
     "Full stack web developer building with React, Next.js, Laravel and PostgreSQL. I ship features and the tests that keep them standing.",
   openGraph: {
